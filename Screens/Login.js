@@ -207,7 +207,7 @@ export default class Login extends React.Component{
         return(<></>)
     }
     render(){
-
+      console.disableYellowBox = true;
       return(
         <Container>
           <ImageBackground source={require('./assets/Images/bg.jpg')} style={styles.backgroundImage}>

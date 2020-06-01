@@ -107,7 +107,14 @@ const styles = StyleSheet.create({
         marginBottom:10,
       },
       name:{
-        fontSize:22,
+        fontSize:18,
+        color:"#000000",
+        fontWeight:'900',
+        marginLeft:60,
+       
+      },
+      name2:{
+        fontSize:18,
         color:"#000000",
         fontWeight:'900',
         marginLeft:60,
